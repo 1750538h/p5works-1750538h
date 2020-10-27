@@ -10,7 +10,6 @@ function setup() {
        if((i+j) % 2 == 1){
         fill(196);
        }
-
      else{
         fill(255);
     }
